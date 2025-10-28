@@ -64,15 +64,15 @@ These `.txt` logs serve as inputs for `plot.py` to generate comparative performa
 
 Two visualizations were generated using `plot.py`:
 
-### 1. **DNS Servers Visited per Domain**
+### 1. DNS Servers Visited per Domain
 <img width="1500" height="700" alt="plot_servers_visited" src="https://github.com/user-attachments/assets/1f03e4e6-d08d-468f-8645-c31232188514" />
 
 - Each bar represents how many DNS servers were contacted for resolving a domain.
 - For the first 10 URLs, all visited **1 server** (indicating cache hits or short resolution chains).
 
-### 2. **DNS Latency per Domain**
+### 2. DNS Latency per Domain
 <img width="1500" height="700" alt="plot_latency" src="https://github.com/user-attachments/assets/2590d11e-5751-465a-b8d8-53040723261c" />
-- Displays the **total DNS resolution latency (ms)** per domain.
+- Displays the total DNS resolution latency (ms) per domain.
 - Some domains show significantly higher latency due to:
   - Cache misses
   - Multi-step resolution (Root → TLD → Authoritative)
