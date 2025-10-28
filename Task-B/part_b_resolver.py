@@ -54,8 +54,6 @@ if __name__ == '__main__':
                 time.sleep(pause)
                 
         t_total_s = time.perf_counter() - t0
-
-    # --- Calculate and Print Final Statistics ---
     
     failed_resolutions = count - successes
     # Only calculate average latency for successful queries
