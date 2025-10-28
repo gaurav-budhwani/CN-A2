@@ -52,6 +52,8 @@ awk '{gsub(/\.$/,""); print}' domains_h1.txt | awk '!seen[$0]++'        > domain
 - The final output is saved in `domains_h1_unique.txt`.
 
 ---
+## Results
+<img width="1600" height="615" alt="image" src="https://github.com/user-attachments/assets/913b57dc-9693-43d5-aa3a-4c5d9bff9193" />
 
 ## Files and what they does
 
@@ -62,7 +64,7 @@ awk '{gsub(/\.$/,""); print}' domains_h1.txt | awk '!seen[$0]++'        > domain
 
 ---
 
-## Example Directory Structure
+## Directory Structure
 
 ```
 .
