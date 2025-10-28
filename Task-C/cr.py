@@ -75,7 +75,6 @@ class ForwardingDNSHandler(socketserver.BaseRequestHandler):
             print(f"f. Upstream Response: Received")
             print(f"g. Upstream RTT: {latency:.2f} ms")
             print(f"h. Overall Time: {latency:.2f} ms")
-            # --- Placeholder: Cache store logic could go here ---
             client_socket.sendto(response, requester_ip)
         except socket.timeout:
             print("f. Upstream Response: Timeout")
