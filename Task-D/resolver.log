@@ -1,0 +1,1988 @@
+DNS Forwarder active at 10.0.0.5:53...
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:49.013443
+b. Domain Name: ntp.ubuntu.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 51.97 ms
+h. Overall Time: 51.97 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:49.066056
+b. Domain Name: ntp.ubuntu.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 51.40 ms
+h. Overall Time: 51.40 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:52.759776
+b. Domain Name: 2brightsparks.co.uk
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 74.66 ms
+h. Overall Time: 74.66 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:52.904592
+b. Domain Name: 2brightsparks.co.uk
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 66.14 ms
+h. Overall Time: 66.14 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:53.038608
+b. Domain Name: 41latitude.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 79.30 ms
+h. Overall Time: 79.30 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:53.168368
+b. Domain Name: 7dfps.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 276.02 ms
+h. Overall Time: 276.02 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:53.503047
+b. Domain Name: 7dfps.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 48.76 ms
+h. Overall Time: 48.76 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:53.641946
+b. Domain Name: advertos.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 54.93 ms
+h. Overall Time: 54.93 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:53.751753
+b. Domain Name: advertos.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 723.12 ms
+h. Overall Time: 723.12 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:54.534857
+b. Domain Name: afairjudgement.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 48.60 ms
+h. Overall Time: 48.60 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:54.652263
+b. Domain Name: afairjudgement.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 55.23 ms
+h. Overall Time: 55.23 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:54.776019
+b. Domain Name: afresnohomeinspector.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 1009.57 ms
+h. Overall Time: 1009.57 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:55.842654
+b. Domain Name: afresnohomeinspector.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 985.82 ms
+h. Overall Time: 985.82 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:56.901389
+b. Domain Name: alchemedialtd.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 67.84 ms
+h. Overall Time: 67.84 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:57.065543
+b. Domain Name: alchemedialtd.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 54.60 ms
+h. Overall Time: 54.60 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:57.171390
+b. Domain Name: alenpuaca.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 636.80 ms
+h. Overall Time: 636.80 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:57.881867
+b. Domain Name: alenpuaca.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 319.41 ms
+h. Overall Time: 319.41 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:58.299467
+b. Domain Name: amorefieldlife.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 70.11 ms
+h. Overall Time: 70.11 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:58.418078
+b. Domain Name: amorefieldlife.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 49.90 ms
+h. Overall Time: 49.90 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:58.552580
+b. Domain Name: aqvr.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 584.55 ms
+h. Overall Time: 584.55 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:59.228725
+b. Domain Name: aqvr.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 267.84 ms
+h. Overall Time: 267.84 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:59.554148
+b. Domain Name: asadventure.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 78.14 ms
+h. Overall Time: 78.14 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:59.700744
+b. Domain Name: asadventure.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 117.41 ms
+h. Overall Time: 117.41 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:43:59.889494
+b. Domain Name: astrumonline.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 840.81 ms
+h. Overall Time: 840.81 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:00.780996
+b. Domain Name: astrumonline.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 1241.12 ms
+h. Overall Time: 1241.12 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:02.083620
+b. Domain Name: auqzzx.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 42.93 ms
+h. Overall Time: 42.93 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:02.184556
+b. Domain Name: australiatradenow.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 59.60 ms
+h. Overall Time: 59.60 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:02.294804
+b. Domain Name: australiatradenow.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 54.36 ms
+h. Overall Time: 54.36 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:02.403587
+b. Domain Name: autofirenze.biz
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 516.58 ms
+h. Overall Time: 516.58 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:02.979256
+b. Domain Name: autofirenze.biz
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 355.61 ms
+h. Overall Time: 355.61 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:03.384011
+b. Domain Name: b-matrix.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 113.89 ms
+h. Overall Time: 113.89 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:03.559002
+b. Domain Name: b-matrix.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 104.53 ms
+h. Overall Time: 104.53 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:03.753020
+b. Domain Name: bikesandtransit.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 48.33 ms
+h. Overall Time: 48.33 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:03.864777
+b. Domain Name: bikesandtransit.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 63.83 ms
+h. Overall Time: 63.83 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:03.982368
+b. Domain Name: blueridgelife.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 64.97 ms
+h. Overall Time: 64.97 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:04.096831
+b. Domain Name: blueridgelife.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 48.75 ms
+h. Overall Time: 48.75 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:04.214897
+b. Domain Name: buynowfromusa.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 45.20 ms
+h. Overall Time: 45.20 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:04.311669
+b. Domain Name: buynowfromusa.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 74.78 ms
+h. Overall Time: 74.78 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:04.450092
+b. Domain Name: camcard.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 58.90 ms
+h. Overall Time: 58.90 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:04.597532
+b. Domain Name: camcard.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 62.91 ms
+h. Overall Time: 62.91 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:04.751904
+b. Domain Name: caricsports.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 275.65 ms
+h. Overall Time: 275.65 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:05.092982
+b. Domain Name: caricsports.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 47.20 ms
+h. Overall Time: 47.20 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:05.195772
+b. Domain Name: cetsi.fr
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 441.96 ms
+h. Overall Time: 441.96 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:05.688665
+b. Domain Name: cetsi.fr
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 470.81 ms
+h. Overall Time: 470.81 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:06.229001
+b. Domain Name: chonvn.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 46.97 ms
+h. Overall Time: 46.97 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:06.370157
+b. Domain Name: chuamatsua.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 201.10 ms
+h. Overall Time: 201.10 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:06.652049
+b. Domain Name: coutureauchocolat.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 60.36 ms
+h. Overall Time: 60.36 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:06.766775
+b. Domain Name: daehepharma.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 203.63 ms
+h. Overall Time: 203.63 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:07.033405
+b. Domain Name: datepanchang.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 119.21 ms
+h. Overall Time: 119.21 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:07.214677
+b. Domain Name: datepanchang.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 41.68 ms
+h. Overall Time: 41.68 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:07.320048
+b. Domain Name: diamondknot.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 128.65 ms
+h. Overall Time: 128.65 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:07.539069
+b. Domain Name: diamondknot.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 121.20 ms
+h. Overall Time: 121.20 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:07.721591
+b. Domain Name: ditrblog.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 64.39 ms
+h. Overall Time: 64.39 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:07.883581
+b. Domain Name: dj-producer-j-mbargo.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 66.38 ms
+h. Overall Time: 66.38 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:08.047152
+b. Domain Name: djoncbjcmv
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 87.32 ms
+h. Overall Time: 87.32 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:08.222039
+b. Domain Name: door2games.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 387.79 ms
+h. Overall Time: 387.79 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:08.671200
+b. Domain Name: door2games.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 113.50 ms
+h. Overall Time: 113.50 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:08.838261
+b. Domain Name: effexdjs.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 322.65 ms
+h. Overall Time: 322.65 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:09.254550
+b. Domain Name: energybulbs.co.uk
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 383.16 ms
+h. Overall Time: 383.16 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:09.692830
+b. Domain Name: energybulbs.co.uk
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 417.08 ms
+h. Overall Time: 417.08 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:10.176870
+b. Domain Name: eugenbotnar.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 46.57 ms
+h. Overall Time: 46.57 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:10.296389
+b. Domain Name: ex-jw.org
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 40.16 ms
+h. Overall Time: 40.16 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:10.395205
+b. Domain Name: ex-jw.org
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 145.29 ms
+h. Overall Time: 145.29 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:10.594694
+b. Domain Name: fini.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 328.14 ms
+h. Overall Time: 328.14 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:10.998338
+b. Domain Name: fini.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 52.06 ms
+h. Overall Time: 52.06 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:11.123246
+b. Domain Name: forpsi.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 722.17 ms
+h. Overall Time: 722.17 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:11.918682
+b. Domain Name: forpsi.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 35.38 ms
+h. Overall Time: 35.38 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:12.052394
+b. Domain Name: gamemob.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 168.07 ms
+h. Overall Time: 168.07 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:12.303423
+b. Domain Name: gamemob.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 119.95 ms
+h. Overall Time: 119.95 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:12.491359
+b. Domain Name: gensee.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 151.28 ms
+h. Overall Time: 151.28 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:12.704587
+b. Domain Name: gensee.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 131.48 ms
+h. Overall Time: 131.48 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:12.906092
+b. Domain Name: globalpoliticalspectrum.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 49.87 ms
+h. Overall Time: 49.87 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:13.011922
+b. Domain Name: gmxwnlajnl
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 48.04 ms
+h. Overall Time: 48.04 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:13.135803
+b. Domain Name: group14eng.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 116.35 ms
+h. Overall Time: 116.35 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:13.317002
+b. Domain Name: group14eng.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 387.30 ms
+h. Overall Time: 387.30 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:13.789691
+b. Domain Name: gusbi.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 386.29 ms
+h. Overall Time: 386.29 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:14.234916
+b. Domain Name: gusbi.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 56.97 ms
+h. Overall Time: 56.97 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:14.338775
+b. Domain Name: healthnews4you.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 113.37 ms
+h. Overall Time: 113.37 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:14.542840
+b. Domain Name: healthnews4you.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 110.65 ms
+h. Overall Time: 110.65 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:14.718676
+b. Domain Name: hemcolubricants.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 415.46 ms
+h. Overall Time: 415.46 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:15.192976
+b. Domain Name: hemcolubricants.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 441.09 ms
+h. Overall Time: 441.09 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:15.716360
+b. Domain Name: hornil.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 54.57 ms
+h. Overall Time: 54.57 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:15.859579
+b. Domain Name: hornil.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 207.86 ms
+h. Overall Time: 207.86 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:16.109348
+b. Domain Name: house-sg.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 511.66 ms
+h. Overall Time: 511.66 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:16.696888
+b. Domain Name: house-sg.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 42.96 ms
+h. Overall Time: 42.96 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:16.801644
+b. Domain Name: i-butterfly.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 382.89 ms
+h. Overall Time: 382.89 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:17.251543
+b. Domain Name: i-butterfly.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 519.78 ms
+h. Overall Time: 519.78 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:17.821097
+b. Domain Name: iag-inc.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 372.34 ms
+h. Overall Time: 372.34 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:18.265553
+b. Domain Name: iag-inc.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 280.18 ms
+h. Overall Time: 280.18 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:18.644602
+b. Domain Name: informarexresistere.fr
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 475.58 ms
+h. Overall Time: 475.58 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:19.173065
+b. Domain Name: informarexresistere.fr
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 34.47 ms
+h. Overall Time: 34.47 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:19.288253
+b. Domain Name: interfloracentral.co.uk
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 749.55 ms
+h. Overall Time: 749.55 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:20.098236
+b. Domain Name: interfloracentral.co.uk
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 733.15 ms
+h. Overall Time: 733.15 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:20.895167
+b. Domain Name: isatap
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 56.10 ms
+h. Overall Time: 56.10 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:21.005749
+b. Domain Name: isilon
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 46.80 ms
+h. Overall Time: 46.80 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:21.101854
+b. Domain Name: jantv.in
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 59.05 ms
+h. Overall Time: 59.05 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:21.221107
+b. Domain Name: jantv.in
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 89.89 ms
+h. Overall Time: 89.89 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:21.387964
+b. Domain Name: junio.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 457.83 ms
+h. Overall Time: 457.83 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:21.889141
+b. Domain Name: junio.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 520.31 ms
+h. Overall Time: 520.31 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:22.487986
+b. Domain Name: kathihill.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 130.87 ms
+h. Overall Time: 130.87 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:22.705973
+b. Domain Name: kathihill.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 125.91 ms
+h. Overall Time: 125.91 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:22.887889
+b. Domain Name: kennethehartman.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 48.77 ms
+h. Overall Time: 48.77 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:22.994005
+b. Domain Name: kennethehartman.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 43.46 ms
+h. Overall Time: 43.46 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:23.130373
+b. Domain Name: kh.ua
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 42.62 ms
+h. Overall Time: 42.62 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:23.259645
+b. Domain Name: kh.ua
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 52.34 ms
+h. Overall Time: 52.34 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:23.392756
+b. Domain Name: khsm.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 933.08 ms
+h. Overall Time: 933.08 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:24.421060
+b. Domain Name: khsm.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 1197.93 ms
+h. Overall Time: 1197.93 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:25.689355
+b. Domain Name: linksplash.info
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 120.91 ms
+h. Overall Time: 120.91 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:25.876154
+b. Domain Name: livelinks.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 51.51 ms
+h. Overall Time: 51.51 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:25.983070
+b. Domain Name: livelinks.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 36.73 ms
+h. Overall Time: 36.73 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:26.084914
+b. Domain Name: localhost.re
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 379.45 ms
+h. Overall Time: 379.45 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:26.510369
+b. Domain Name: localhost.re
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 49.89 ms
+h. Overall Time: 49.89 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:26.643975
+b. Domain Name: lozo.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 53.13 ms
+h. Overall Time: 53.13 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:26.751100
+b. Domain Name: lozo.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 61.80 ms
+h. Overall Time: 61.80 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:26.911978
+b. Domain Name: luckypuppygames.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 324.76 ms
+h. Overall Time: 324.76 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:27.298687
+b. Domain Name: luckypuppygames.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 368.79 ms
+h. Overall Time: 368.79 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:27.745321
+b. Domain Name: memeblender.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 68.32 ms
+h. Overall Time: 68.32 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:27.878704
+b. Domain Name: memeblender.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 51.51 ms
+h. Overall Time: 51.51 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:27.995614
+b. Domain Name: mesites.co.za
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 46.10 ms
+h. Overall Time: 46.10 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:28.081354
+b. Domain Name: mesites.co.za
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 753.12 ms
+h. Overall Time: 753.12 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:28.904581
+b. Domain Name: michiganbulb.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 46.53 ms
+h. Overall Time: 46.53 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:29.035988
+b. Domain Name: michiganbulb.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 297.32 ms
+h. Overall Time: 297.32 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:29.401806
+b. Domain Name: monsterhomesecuritystore.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 49.19 ms
+h. Overall Time: 49.19 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:29.523722
+b. Domain Name: mptrmkwart
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 52.20 ms
+h. Overall Time: 52.20 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:29.653365
+b. Domain Name: mwzip.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 51.16 ms
+h. Overall Time: 51.16 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:29.769748
+b. Domain Name: mwzip.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 51.36 ms
+h. Overall Time: 51.36 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:29.891554
+b. Domain Name: mysearch-online.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 117.66 ms
+h. Overall Time: 117.66 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:30.106627
+b. Domain Name: newstetic.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 46.88 ms
+h. Overall Time: 46.88 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:30.227531
+b. Domain Name: newstetic.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 52.29 ms
+h. Overall Time: 52.29 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:30.358313
+b. Domain Name: niceinternetmoney.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 742.43 ms
+h. Overall Time: 742.43 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:31.168020
+b. Domain Name: o-ov.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 164.58 ms
+h. Overall Time: 164.58 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:31.388443
+b. Domain Name: ondemandappliancerepair.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 319.50 ms
+h. Overall Time: 319.50 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:31.784868
+b. Domain Name: ondemandappliancerepair.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 327.22 ms
+h. Overall Time: 327.22 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:32.201227
+b. Domain Name: owlcreek.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 45.62 ms
+h. Overall Time: 45.62 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:32.308033
+b. Domain Name: owlcreek.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 619.97 ms
+h. Overall Time: 619.97 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:33.017928
+b. Domain Name: pbprofile.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 45.55 ms
+h. Overall Time: 45.55 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:33.129647
+b. Domain Name: phi-pe.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 104.82 ms
+h. Overall Time: 104.82 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:33.292298
+b. Domain Name: pictures-thailand.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 340.99 ms
+h. Overall Time: 340.99 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:33.738069
+b. Domain Name: pictures-thailand.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 378.70 ms
+h. Overall Time: 378.70 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:34.188505
+b. Domain Name: pieceinch.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 55.69 ms
+h. Overall Time: 55.69 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:34.290900
+b. Domain Name: pieceinch.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 65.34 ms
+h. Overall Time: 65.34 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:34.447832
+b. Domain Name: portclydegeneralstore.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 125.12 ms
+h. Overall Time: 125.12 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:34.651154
+b. Domain Name: portclydegeneralstore.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 106.81 ms
+h. Overall Time: 106.81 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:34.848616
+b. Domain Name: ppsuika.ac.id
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 345.72 ms
+h. Overall Time: 345.72 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:35.253244
+b. Domain Name: ppsuika.ac.id
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 428.31 ms
+h. Overall Time: 428.31 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:35.734367
+b. Domain Name: probigbets.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 51.61 ms
+h. Overall Time: 51.61 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:35.868255
+b. Domain Name: progettogiovani.pd.it
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 52.43 ms
+h. Overall Time: 52.43 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:36.017934
+b. Domain Name: progettogiovani.pd.it
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 727.22 ms
+h. Overall Time: 727.22 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:36.811521
+b. Domain Name: radioterminal.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 819.72 ms
+h. Overall Time: 819.72 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:37.685709
+b. Domain Name: radioterminal.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 445.12 ms
+h. Overall Time: 445.12 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:38.200985
+b. Domain Name: reprosystems.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 401.73 ms
+h. Overall Time: 401.73 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:38.694137
+b. Domain Name: reprosystems.ru
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 473.46 ms
+h. Overall Time: 473.46 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:39.223265
+b. Domain Name: retiragroup.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 282.96 ms
+h. Overall Time: 282.96 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:39.566660
+b. Domain Name: rtsab.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 52.44 ms
+h. Overall Time: 52.44 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:39.681358
+b. Domain Name: running-sigi.de
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 116.81 ms
+h. Overall Time: 116.81 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:39.867681
+b. Domain Name: sdccdonline.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Timeout
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:41.896461
+b. Domain Name: sdccdonline.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Timeout
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:43.921151
+b. Domain Name: sdccdonline.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 322.39 ms
+h. Overall Time: 322.39 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:44.316858
+b. Domain Name: sdccdonline.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Timeout
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:46.348533
+b. Domain Name: sdccdonline.net
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 62.30 ms
+h. Overall Time: 62.30 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:46.482222
+b. Domain Name: sheltercoveinn.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 302.93 ms
+h. Overall Time: 302.93 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:46.879826
+b. Domain Name: shivalikprints.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 54.36 ms
+h. Overall Time: 54.36 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:46.989648
+b. Domain Name: shivalikprints.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 46.16 ms
+h. Overall Time: 46.16 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:47.123887
+b. Domain Name: shqqaa.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 60.32 ms
+h. Overall Time: 60.32 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:47.250648
+b. Domain Name: shqqaa.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 53.62 ms
+h. Overall Time: 53.62 ms
+------------------------
+
+DNS Query Log (Alternate)
+a. Timestamp: 2025-10-24T22:44:47.392993
+b. Domain Name: simternet.com
+i. Cache State: NOT_FOUND
+c. Resolution Strategy: Forward (Non-recursive)
+d. Upstream DNS Contacted: 8.8.8.8
+e. Action: Relayed Upstream
+f. Upstream Response: Received
+g. Upstream RTT: 121.94 ms
+h. Overall Time: 121.94 ms
+------------------------
+
+DNS Query Log (Alternate)
