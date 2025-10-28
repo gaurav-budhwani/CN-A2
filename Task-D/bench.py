@@ -1,8 +1,3 @@
-#!/usr/bin/python3
-"""
-benchmark file which measures the dns resolution performance (latency, throughput) by querying
-each domain using the 'dig' utility.
-"""
 import sys
 import subprocess
 import time
