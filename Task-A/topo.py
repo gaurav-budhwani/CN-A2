@@ -18,7 +18,8 @@ class AssignmentTopo(Topo):
         h2 = self.addHost('h2', ip='10.0.0.2/24')
         h3 = self.addHost('h3', ip='10.0.0.3/24')
         h4 = self.addHost('h4', ip='10.0.0.4/24')
-        dns = self.addHost('dns', ip='10.0.0.254/24')
+        dns = self.addHost('dns', ip='10.0.0.5/24')
+        # nat = self.addNode('nat0', cls=NAT, ip='10.0.0.254/24', inNamespace=False)
         # links
         self.addLink(h1, s1, cls=TCLink, bw=100, delay='2ms')
         self.addLink(h2, s2, cls=TCLink, bw=100, delay='2ms')
@@ -29,6 +30,7 @@ class AssignmentTopo(Topo):
         self.addLink(s2, s3, cls=TCLink, bw=100, delay='8ms')
         self.addLink(s3, s4, cls=TCLink, bw=100, delay='10ms')
         self.addLink(dns, s2, cls=TCLink, bw=100, delay='1ms')
+        # self.addLink(s2, nat)
 
 def run():
     topo = AssignmentTopo()
